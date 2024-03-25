@@ -1,8 +1,8 @@
 
 CZ Links
-1. [accp CZ link](accp.app.cz.nl)
+1. [(accp.app.cz.nl)
 2. www.accp.app.cz.nl
-3. http://.accp.app.cz.nl
+3. accp CZ link] http://.accp.app.cz.nl
 4. https://www.accp.app.cz.nl
 5. https://accp.app.cz.nl
 
