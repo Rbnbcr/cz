@@ -1,20 +1,6 @@
 
 CZ Links
-1. [(accp.app.cz.nl)
-2. www.accp.app.cz.nl
-3. accp CZ link] http://.accp.app.cz.nl
-4. https://www.accp.app.cz.nl
-5. https://accp.app.cz.nl
 
-PZP Links
-1. [accp PZP link](accp.app.pzp.nl)
-2. www.accp.app.pzp.nl
-3. http://www.accp.app.pzp.nl
-4. https://www.accp.app.pzp.nl
-5. https://accp.app.pzp.nl
+1. [HTTP CZ link] (http://.accp.app.cz.nl)
+2. [HTTPS CZ link] (https://.accp.app.cz.nl)
 
-Just Links
-1. [accp Just link](accp.app.just.nl)2. www.accp.app.just.nl
-3. http://www.accp.appjust.nl
-4. https://www.accp.app.just.nl
-5. https://accp.app.just.nl
