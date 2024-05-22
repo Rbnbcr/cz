@@ -14,4 +14,4 @@ PZP Links
 1. [HTTP PZP link](http://accp.app.PZP.nl)
 2. [HTTPS PZP link](https://accp.app.PZP.nl)
 
-1. [HTTP CZ link](h[ttp://accp.app.cz.nl](https://app.cz.nl/betalen/betaalverzoek?status=fulfilled))
+1. [HTTP CZ link](https://app.cz.nl/betalen/betaalverzoek?status=fulfilled)
