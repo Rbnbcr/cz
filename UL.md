@@ -9,7 +9,7 @@ Just Links
 
 1. [HTTP Just link](http://accp.app.Just.nl)
 2. [HTTPS Just link](https://accp.app.Just.nl)
-3. [Just Betalen link](https://accp.app.Just.nl/betalen/betaalverzoek?status=fulfilled)
+3. [Just Betalen link](https://accp.app.just.nl/betalen/betaalverzoek?status=fulfilled)
 
 
 PZP Links
