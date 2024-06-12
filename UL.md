@@ -19,5 +19,6 @@ PZP Links
 3. [PZP Betalen link](https://accp.app.PZP.nl/betalen/betaalverzoek?status=fulfilled)
 
 
+[HTTP deeplink link](accpczzorg://betaalverzoek?status=Fulfilled)
 
 
