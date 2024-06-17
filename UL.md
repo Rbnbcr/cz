@@ -18,6 +18,11 @@ PZP Links
 2. [HTTPS PZP link](https://accp.app.PZP.nl)
 3. [PZP Betalen link](https://accp.app.PZP.nl/betalen/betaalverzoek?status=fulfilled)
 
+CZ Links productie
+
+1. [HTTP CZ link](http://app.cz.nl)
+2. [HTTPS CZ link](https://app.cz.nl)
+3. [CZ Betalen link](https://app.cz.nl/betalen/betaalverzoek?status=fulfilled)
 
 [HTTP deeplink link](accpczzorg://betaalverzoek?status=Fulfilled)
 
