@@ -24,6 +24,6 @@ CZ Links productie
 2. [HTTPS CZ link](https://app.cz.nl)
 3. [CZ Betalen link](https://app.cz.nl/betalen/betaalverzoek?status=fulfilled)
 
-[HTTP deeplink link](accpczzorg://betaalverzoek?status=Fulfilled)
-
-
+[HTTP CZ deeplink link](accpczzorg://betaalverzoek?status=Fulfilled)
+[HTTP Just deeplink link](accpjustzorg://betaalverzoek?status=Fulfilled)
+[HTTP PZP deeplink link](accppzpzorg://betaalverzoek?status=Fulfilled)
