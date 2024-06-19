@@ -27,6 +27,7 @@ CZ Links productie
 Betalen Links success
 
 
-1. [HTTP CZ deeplink link](accpczzorg://betaalverzoek?status=Fulfilled)
-2. [HTTP Just deeplink link](accpjustzorg://betaalverzoek?status=Fulfilled)
-3. [HTTP PZP deeplink link](accppzpzorg://betaalverzoek?status=Fulfilled)
+1. [HTTP CZ deeplink link](https://app.cz.nl/betalen/betaalverzoek?status=[status])
+2. [HTTP Just deeplink link](https://app.just.nl/betalen/betaalverzoek?status=[status])
+3. [HTTP PZP deeplink link](https://app.pzp.nl/betalen/betaalverzoek?status=[status])
+
