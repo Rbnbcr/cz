@@ -1,0 +1,17 @@
+[
+  {
+    "Rel": "010000018",
+    "Purpose": "Flows without important user data",
+    "Provider": "CZ"
+  },
+  {
+    "Rel": "425553744",
+    "Purpose": "Test case with payment arrangement where nothing has been repaid yet",
+    "Provider": "PZP"
+  },
+  {
+    "Rel": "490040675",
+    "Purpose": "User with co-insured users",
+    "Provider": "CZ"
+  }
+]
