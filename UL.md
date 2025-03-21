@@ -28,8 +28,8 @@ Betalen Links success
 
 
 1. [HTTP CZ deeplink link](https://accp.app.cz.nl/betalen/betaalverzoek?status=fulfilled)
-2. [HTTP Just deeplink link](https://accp.app.just.nl/betalen/betaalverzoek?status=[status])
-3. [HTTP PZP deeplink link](https://accp.app.pzp.nl/betalen/betaalverzoek?status=[status])
+2. [HTTP Just deeplink link](https://accp.app.just.nl/betalen/betaalverzoek?status=fulfilled)
+3. [HTTP PZP deeplink link](https://accp.app.pzp.nl/betalen/betaalverzoek?status=fulfilled)
 
 Deeplinks Vergoedingen
 
